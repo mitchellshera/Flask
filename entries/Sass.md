@@ -1,0 +1,1 @@
+#Sass**Sass** (short for **syntactically awesome style sheets**) is a preprocessor [scripting language](/wiki/scripting) that is interpreted or Compiled into [css](/wiki/css). SassScript  is the scripting language itself.
